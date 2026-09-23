@@ -1,16 +1,19 @@
-## Hi there 👋
+# ⚡ Ibukunoluwa
 
-<!--
-**hi-bit-ke/hi-bit-ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer • Full-Stack • Web3**
 
-Here are some ideas to get you started:
+Building with **code × APIs × blockchain**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack
+
+`JavaScript` `TypeScript` `Node.js` `React` `Solidity` `Git`
+
+### 🚀 Exploring
+
+Frontend • Backend • APIs • Web3 • DeFi • Smart Contracts
+
+### 🔥 Mindset
+
+> **Learn → Build → Ship → Repeat.**
+
+**Building useful things, onchain and offchain.**
